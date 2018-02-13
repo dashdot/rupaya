@@ -1,0 +1,26 @@
+# /etc/conf.d/rupayad: config file for /etc/init.d/rupayad
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/rupaya/rupaya.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/rupayad"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/rupayad.pid"
+
+# Where to write rupayad data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/rupayad"
+
+# User and group to own rupayad process
+#BITCOIND_USER="rupaya"
+#BITCOIND_GROUP="rupaya"
+
+# Path to rupayad executable
+#BITCOIND_BIN="/usr/bin/rupayad"
+
+# Nice value to run rupayad under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""

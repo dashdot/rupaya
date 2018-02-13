@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Rupaya
+Comment=Rupaya P2P Cryptocurrency
+Comment[fr]=Rupaya, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Rupaya, eşten eşe kriptografik sanal para birimi
+Exec=rupaya-qt %u
+Terminal=false
+Type=Application
+Icon=rupaya128
+MimeType=x-scheme-handler/rupaya;
+Categories=Office;Finance;
