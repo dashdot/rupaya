@@ -11,7 +11,7 @@ Rupaya is a cutting edge cryptocurrency, with many features not available in mos
   technology used to secure the network and provide the above features, each Masternode is secured
   with a collateral of 10K RUPX.
 
-More information at [RupayaCoin.com](http://www.rupayacoin.com) Visit our ANN thread at [BitcoinTalk](http://www.bitcointalk.org/index.php)
+More information at [rupx.io](https://www.rupx.io) Visit our ANN thread at [BitcoinTalk](http://www.bitcointalk.org/index.php)
 
 
 ### Coin Specs
@@ -21,7 +21,7 @@ More information at [RupayaCoin.com](http://www.rupayacoin.com) Visit our ANN th
 <tr><td>Difficulty Retargeting</td><td>Every Block</td></tr>
 <tr><td>Max Coin Supply (PoW Phase)</td><td>3,000,000 RUPX</td></tr>
 <tr><td>Max Coin Supply (PoS Phase)</td><td>Infinite</td></tr>
-<tr><td>Premine</td><td>400,000 RUPX</td></tr>
+<tr><td>Premine</td><td>7000,000 RUPX</td></tr>
 </table>
 
 
@@ -30,8 +30,7 @@ More information at [RupayaCoin.com](http://www.rupayacoin.com) Visit our ANN th
 <table>
 <th colspan=4>PoW Phase</th>
 <tr><th>Block Height</th><th>Reward Amount</th><th>Notes</th><th>Duration (Days)</th></tr>
-<tr><td>1</td><td>400,000 RUPX</td><td>Initial Premine</td><td>0 Days</td></tr>
-<tr><td>2-3029</td><td>10 RUPX</td><td rowspan=1>Open Mining</td><td rowspan=1> Approx 180 Days</td></tr>
+<tr><td>1</td><td>7000,000 RUPX</td><td>Initial Premine for Coin Swap</td><td>0 Days</td></tr>
 <tr><th colspan=4>PoS Phase</th></tr>
 <tr><th>Block Height</th><th colspan=3>Reward Amount</th></tr>
 <tr><td>259201-Infinite</td><td colspan=2>Masternodes: 65%</td><td>Stakers: 35%</td></tr>
