@@ -19,8 +19,7 @@ More information at [rupx.io](https://www.rupx.io) Visit our ANN thread at [Bitc
 <tr><td>Algo</td><td>Quark</td></tr>
 <tr><td>Block Time</td><td>60 Seconds</td></tr>
 <tr><td>Difficulty Retargeting</td><td>Every Block</td></tr>
-<tr><td>Max Coin Supply (PoW Phase)</td><td>3,000,000 RUPX</td></tr>
-<tr><td>Max Coin Supply (PoS Phase)</td><td>Infinite</td></tr>
+<tr><td>Max Coin Supply (PoS Phase)</td><td>78,800,000 RUPX</td></tr>
 <tr><td>Premine</td><td>7000,000 RUPX</td></tr>
 </table>
 
@@ -32,23 +31,16 @@ More information at [rupx.io](https://www.rupx.io) Visit our ANN thread at [Bitc
 <tr><th>Block Height</th><th>Reward Amount</th><th>Notes</th><th>Duration (Days)</th></tr>
 <tr><td>1</td><td>7000,000 RUPX</td><td>Initial Premine for Coin Swap</td><td>0 Days</td></tr>
 <tr><th colspan=4>PoS Phase</th></tr>
-<tr><th>Block Height</th><th colspan=3>Reward Amount</th></tr>
-<tr><td>259201-Infinite</td><td colspan=2>Masternodes: 65%</td><td>Stakers: 35%</td></tr>
+<td colspan=2>Masternodes: 60%</td><td>Stakers: 20%</td><td>Budget: 20%</td></tr>
 </table>
 
-### PoW Rewards Breakdown
-
-<table>
-<th>Block Height</th><th>Reward</th><th>Masternodes</th><th>Miner</th>
-<tr><td>2-3029</td><td>10 RUPX</td><td>65% (6.5 RUPX)</td><td>35% (3.5 RUPX)</td></tr>
-</table>
 
 ### PoS Rewards Breakdown
 
 <table>
 <th>Phase</th><th>Block Height</th><th>Reward</th><th>Masternodes</th><th>Stakers</th>
-<tr><td>Phase 1</td><td>3030-518400</td><td>10 RUPX</td><td>65% (6.5 RUPX)</td><td>35% (3.5 RUPX)</td></tr>
-<tr><td>Phase 2</td><td>518401-777600</td><td>5 RUPX</td><td>65% (3.25 RUPX)</td><td>35% (1.75 RUPX)</td></tr>
-<tr><td>Phase 3</td><td>777601-1036801</td><td>2 RUPX</td><td>65% (1.3 RUPX)</td><td>35% (0.7 RUPX)</td></tr>
-<tr><td>Phase 4</td><td>1036802-Infinite</td><td>1 RUPX</td><td>65% (0.65 RUPX)</td><td>35% (0.35 RUPX)</td></tr>
+<tr><td>Phase 1</td><td>3030-518400</td><td>10 RUPX</td><td>65% (RUPX)</td><td>35% (RUPX)</td></tr>
+<tr><td>Phase 2</td><td>518401-777600</td><td>5 RUPX</td><td>65% ( RUPX)</td><td>35% ( RUPX)</td></tr>
+<tr><td>Phase 3</td><td>777601-1036801</td><td>2 RUPX</td><td>65% ( RUPX)</td><td>35% ( RUPX)</td></tr>
+<tr><td>Phase 4</td><td>1036802-Infinite</td><td>1 RUPX</td><td>65% ( RUPX)</td><td>35% ( RUPX)</td></tr>
 </table>
