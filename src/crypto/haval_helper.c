@@ -32,6 +32,14 @@
  * @author   Thomas Pornin <thomas.pornin@cryptolog.com>
  */
 
+#ifdef HASH
+
+#include <stddef.h>
+
+#ifndef MAC_OSX
+#pragma GCC diagnostic ignored "-fpermissive"
+#endif
+
 #undef SPH_XCAT_
 #define SPH_XCAT_(a, b)   a ## b
 #undef SPH_XCAT
@@ -188,3 +196,5 @@ SPH_XCAT(SPH_XCAT(haval, PASSES), _close)(sph_haval_context *sc,
 	haval_out(sc, dst);
 	haval_init(sc, sc->olen, sc->passes);
 }
+
+#endif
